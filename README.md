@@ -6,4 +6,4 @@ Topics:
 
 Presentation is loading...
 
-<img src="death_note.gif" width="800" height="600" />
+<img src="death_note.gif" width="195" height="422" />
